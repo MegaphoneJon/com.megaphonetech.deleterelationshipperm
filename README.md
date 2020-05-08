@@ -48,4 +48,4 @@ This extension has not yet been published for installation via the web UI.
 
 Upon installation, your access control table will gain a new row where you can specify which user types are allowed to delete contact relationships. Find them by going to **Administer menu » Users and Permissions » Permissions (Access Control) » Wordpress Access Control** [note: Drupal users will have a slightly different path].
 
-![delete-relationships_edited.png screenshot](/delete-relationships_edited.png)
+![delete-relationships_edited.png screenshot](/images/delete-relationships_edited.png)
